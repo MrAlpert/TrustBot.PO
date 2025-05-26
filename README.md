@@ -105,5 +105,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0000ff&text=Powered%20By%20Mr.Alper&textBg=false&reversal=false&section=footer&fontAlign=50&animation=twinkling&fontAlignY=79&descAlignY=19">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0000ff&text=Powered%20By%20Mr.Alpert&textBg=false&reversal=false&section=footer&fontAlign=50&animation=twinkling&fontAlignY=79&descAlignY=19">
   </div>
