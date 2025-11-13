@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0000ff&text=TRUSTBOT.PO&textBg=false&reversal=false&section=header&fontAlign=50&animation=twinkling&fontAlignY=41&descAlignY=19">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0000ff&text=ProtonBot.PO&textBg=false&reversal=false&section=header&fontAlign=50&animation=twinkling&fontAlignY=41&descAlignY=19">
   </div>
-<h1> 🤖TrustBot Pocket Option </h1>
-<h2> 🖲️TrustBot.PO is a fully automatic trading software on the Pocket Option platform </h2>
-<h3> 📝Note: This bot and all its developments are the property of Mr.ALpert. TrustBot.PO is not a publicly available framework, but an exclusive author's edition of trading tools with advanced features not available in standard solutions.</h3>
+<h1> 🤖ProtonBot Pocket Option </h1>
+<h2> 🖲️ProtonBot is a fully automatic trading software on the Pocket Option platform </h2>
+<h3> 📝Note: This bot and all its developments are the property of Richardos. ProtonBot is not a publicly available framework, but an exclusive author's edition of trading tools with advanced features not available in standard solutions.</h3>
 <div align="center">
   <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   </div>
@@ -93,7 +93,7 @@
 </table>
 
 <div align="center">
-  <a href="https://t.me/Mr_Alpert_TrustBot">
+  <a href="https://t.me/proton_bot_po">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
    <a href="https://github.com/MrAlpert/TrustBot.PO">
@@ -105,5 +105,5 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0000ff&text=Powered%20By%20Mr.Alpert&textBg=false&reversal=false&section=footer&fontAlign=50&animation=twinkling&fontAlignY=79&descAlignY=19">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0000ff&text=Powered%20By%20Richardos&textBg=false&reversal=false&section=footer&fontAlign=50&animation=twinkling&fontAlignY=79&descAlignY=19">
   </div>
